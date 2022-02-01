@@ -1,0 +1,7 @@
+PSEUDOCODE (Algorithm - STEP BY STEP APPOARCH)
+Start
+Display for user to select from a list of options(data in directory)
+if user select A, B, C, D, E from list
+return functions & actions associated with (A,B,C,D,E)
+else if user choose to end or continue the program, return step 3 or end program
+Stop
